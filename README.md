@@ -1,12 +1,13 @@
 # Client side certifcate pass to backend with nginx
 
-```ruby
+```bash
 $ bundle
 $ foreman start
 $ open https://localhost:9394/
 $ ruby test.rb
 ```
-Output
+
+Output:
 
 ```
 opening connection to localhost:9394...
